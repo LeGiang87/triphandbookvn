@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://legiang87.github.io/triphandbookvn/sitemap.xml
+Sitemap: https://triphandbookvn.com/sitemap.xml
